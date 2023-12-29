@@ -1,2 +1,2 @@
 # hinglish-training
-Code related to training/fine-tuning Hindi/Hinglish models.
+Code related to dataset curation, training/fine-tuning, evaluation and inference of Hindi/Hinglish models.
